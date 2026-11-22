@@ -1,0 +1,10 @@
+INTEGRANTES DEL EQUIPO
+
+1. Roman Solorzano
+   Responsabilidad: Administración del repositorio.
+
+2. Joel Orozco
+   Responsabilidad: Colaboración y edición de archivos.
+
+3. Ricardo Garcia
+   Responsabilidad: Documentación del proyecto.
